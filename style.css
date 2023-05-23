@@ -5,10 +5,10 @@ body{
 .elemento_mae{
     background-color: aqua;
     height: 600px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: baseline;
+    display: flex; /* declarar o flexbox */
+    flex-direction: row; /* alinhamento por linha ou horizontal */
+    justify-content: space-around; /* centralizcao dos elementos */
+    align-items: baseline; /* posicionamento perpendicular */
 }
 
 .elemento_filho_1{
