@@ -1,0 +1,40 @@
+body{
+    background-color: aquamarine;
+}
+
+.elemento_mae{
+    background-color: aqua;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.elemento_filho_1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 20px;
+}
+.elemento_filho_2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    border-radius: 20px;
+}
+.elemento_filho_3{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    border-radius: 20px;
+}
